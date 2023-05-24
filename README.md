@@ -6,7 +6,7 @@ Primeiro teste pra aula
 
 <head>
 
-<title>Título da página</title>
+<title>Fanpage de Gatinhos</title>
 
 <meta charset=“utf-8”>
 
@@ -14,7 +14,10 @@ Primeiro teste pra aula
 
 <body>
 
-<h1>Aqui vai um título</h1>
+<!--Perfil-->
+    <h1>Perfil #catsoninstagram</h1>
+
+<img src=“images/BulldogFrancês.jpg” />
 
 </body>
 
